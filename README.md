@@ -1,7 +1,7 @@
 # React
 
 
-shopping-Mall源码，原文地址：https://www.jianshu.com/nb/20259133
+原文地址：https://www.jianshu.com/p/605e05cc56e4
 
 ### React_01
 
