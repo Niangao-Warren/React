@@ -1,8 +1,5 @@
 # React
 
-
-原文地址：https://www.jianshu.com/p/605e05cc56e4
-
 ### React_01
 
 关于项目的目录结构讲解，项目在开发环境和线上环境的不同点，并介绍了jsx的语法，原文地址：[React 基础知识](https://www.jianshu.com/p/605e05cc56e4)
